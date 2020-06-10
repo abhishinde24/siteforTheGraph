@@ -1,2 +1,2 @@
-# siteforTheGraph
-this is tempory site created for submission at The Graph
+# siteforTheGraphe
+this is tempory site created for submission at The Graphe
